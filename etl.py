@@ -36,7 +36,3 @@ def somar_valores_produtos(lista:list[dict]) -> list[dict]:
 
 
 
-produtos = ler_csv('vendas.csv')
-produtos_entregue = filtrar_produtos_entregue(produtos)
-valor_total_entregue = somar_valores_produtos(produtos_entregue)
-print(valor_total_entregue)
