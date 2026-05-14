@@ -1,0 +1,21 @@
+produto,categoria,preco,estoque,entregue
+Notebook Dell,Informatica,3500.99,15,true
+Mouse Logitech,Informatica,150.50,200,false
+Teclado Mecanico,Informatica,450.00,80,true
+Monitor LG 24,Informatica,1200.00,30,false
+Headset HyperX,Informatica,350.75,50,true
+Cadeira Gamer,Moveis,1800.00,10,false
+Mesa Escritorio,Moveis,950.00,25,true
+Estante Madeira,Moveis,600.50,18,false
+Sofa 3 Lugares,Moveis,2200.00,5,true
+Luminaria LED,Moveis,180.00,90,false
+Camisa Polo,Vestuario,89.90,300,true
+Calca Jeans,Vestuario,149.90,250,false
+Tenis Nike,Vestuario,450.00,100,true
+Mochila Adidas,Vestuario,280.00,75,false
+Bone New Era,Vestuario,120.00,150,true
+Frigideira Antiaderente,Cozinha,220.00,60,true
+Liquidificador Oster,Cozinha,350.00,40,false
+Panela de Pressao,Cozinha,180.50,55,true
+Jogo de Facas,Cozinha,290.00,35,false
+Cafeteira Nespresso,Cozinha,800.00,20,true
